@@ -1,13 +1,12 @@
-package com.ucsdextandroid1.kotlinlist;
+package com.ucsdextandroid1.kotlinlist
 
-import com.google.gson.annotations.SerializedName;
-
-import java.util.List;
+import com.google.gson.annotations.SerializedName
 
 /**
  * Created by rjaylward on 2019-06-08
  */
-public class Models {
+/*public class Models {
+
 
     public class SearchResults {
 
@@ -67,3 +66,4 @@ public class Models {
 
     }
 }
+*/
